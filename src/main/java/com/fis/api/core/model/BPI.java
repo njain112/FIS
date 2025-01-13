@@ -1,6 +1,5 @@
 /*
- * Copyright (c) 2020, Acord Solution Group and/or its affiliates. All rights reserved.
- */
+ 
 package com.fis.api.core.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -14,7 +13,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * <p>AL3MessageV2.java</p>
 
  * 
  * @author Nikita Jain
