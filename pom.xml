@@ -19,7 +19,7 @@
                            <goal>generate</goal>
                        </goals>
                        <configuration>
-                           <projectName>AL3 API Automation</projectName>
+                           <projectName>FIS API Automation</projectName>
                            <outputDirectory>${project.build.directory}/Report/cucumber-reports</outputDirectory>
                            <cucumberOutput>${project.build.directory}/cucumber-reports/cucumber.json</cucumberOutput>
 
@@ -47,7 +47,7 @@
         </extensions>
     </build>
 
-  <name>AL3-API-Automation</name>
+  <name>FIS-API-Automation</name>
 
     <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
 
